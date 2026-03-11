@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    border: 3px solid green;
+    border-radius: 10px; 
+   
+
+    /* border-right: 5px solid  green;
+    border-left: 5px solid  green;
+    border-top: 5px solid green;
+    border-bottom: 5px solid green;
+
+    border-left-style: double ,dashed,dotted;
+   */
+
+
+}
