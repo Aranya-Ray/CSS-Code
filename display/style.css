@@ -1,0 +1,13 @@
+h1{
+    color: aqua;
+    text-align: center;
+    
+
+     /* display: inline-block; */
+     /* display: none; */
+}
+
+span{
+    display: block;
+    text-align: center;
+} 
