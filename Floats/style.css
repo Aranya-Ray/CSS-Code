@@ -1,0 +1,53 @@
+.img1{
+   width: 200px;
+   height: 200px;
+   float: left;
+}
+
+/* p{
+   clear: left;
+} */
+
+.img2{
+   width: 200px;
+   height: 200px;
+   float: right;
+}
+
+
+p{
+   clear: both;
+}
+
+
+
+
+
+
+.box1{
+   background-color: aquamarine;
+   width: 200px;
+   height: 100px;
+}
+
+.box2{
+   background-color: rgb(9, 224, 231);
+   width: 200px;
+   height: 100px;
+}
+
+.box3{
+   background-color: rgb(19, 50, 226);
+   width: 200px;
+   height: 100px;
+}
+
+.box4{
+   background-color: rgb(126, 10, 172);
+   width: 200px;
+   height: 100px;
+}
+
+div{
+   float: left;
+}
