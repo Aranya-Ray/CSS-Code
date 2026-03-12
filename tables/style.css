@@ -1,0 +1,12 @@
+table,th,td{
+    border: 2px solid red;
+    margin-top: 3px;
+    border-collapse: collapse;
+    text-align: left;
+}
+table{
+    width: 100%;
+}
+th,td{
+    color: green;
+}
