@@ -1,0 +1,7 @@
+.bg{
+   width: 300px;
+   height: 500px;
+   background: linear-gradient(red,green);
+
+   /* background: linear-gradient(to left ,rgba(255,0,0),green); */
+}
