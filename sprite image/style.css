@@ -1,0 +1,10 @@
+.box {
+    width: 36px;
+    height: 36px;
+    background-image: url(social.png);
+    background-repeat: no-repeat;
+    background-position: -5px -48px;
+    border-radius: 50%;
+}
+
+.box:hover{
